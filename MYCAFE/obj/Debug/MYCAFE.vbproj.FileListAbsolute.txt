@@ -1,0 +1,64 @@
+D:\sri\MYCAFE\MYCAFE\bin\Debug\MYCAFE.exe.config
+D:\sri\MYCAFE\MYCAFE\bin\Debug\MYCAFE.exe
+D:\sri\MYCAFE\MYCAFE\bin\Debug\MYCAFE.pdb
+D:\sri\MYCAFE\MYCAFE\bin\Debug\MYCAFE.xml
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.AssemblyReference.cache
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmlogo.resources
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.Form2.resources
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.Resources.resources
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.GenerateResource.cache
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.CoreCompileInputs.cache
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.exe
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.xml
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.pdb
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmregister.resources
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmlogin.resources
+D:\sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmhome.resources
+D:\bala and sri\MYCAFE\MYCAFE\bin\Debug\MYCAFE.exe.config
+D:\bala and sri\MYCAFE\MYCAFE\bin\Debug\MYCAFE.exe
+D:\bala and sri\MYCAFE\MYCAFE\bin\Debug\MYCAFE.pdb
+D:\bala and sri\MYCAFE\MYCAFE\bin\Debug\MYCAFE.xml
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.AssemblyReference.cache
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmlogo.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.Form2.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmregister.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmlogin.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmhome.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.Resources.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.GenerateResource.cache
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.CoreCompileInputs.cache
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.exe
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.xml
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.pdb
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmprofile.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmcart.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmpayment.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmaboutus.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmcard.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmpaymentsuccess.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmupi.resources
+D:\bala and sri\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmmyorders.resources
+D:\sri and bala\MYCAFE\MYCAFE\bin\Debug\MYCAFE.exe.config
+D:\sri and bala\MYCAFE\MYCAFE\bin\Debug\MYCAFE.exe
+D:\sri and bala\MYCAFE\MYCAFE\bin\Debug\MYCAFE.pdb
+D:\sri and bala\MYCAFE\MYCAFE\bin\Debug\MYCAFE.xml
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.AssemblyReference.cache
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmlogo.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmcard.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmpaymentsuccess.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmupi.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmmyorders.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.Form2.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmregister.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmlogin.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmhome.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmprofile.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmcart.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmpayment.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.frmaboutus.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.Resources.resources
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.GenerateResource.cache
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.vbproj.CoreCompileInputs.cache
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.exe
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.xml
+D:\sri and bala\MYCAFE\MYCAFE\obj\Debug\MYCAFE.pdb
